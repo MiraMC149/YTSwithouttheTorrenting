@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Searchbar {
+  display: flex;
+}
